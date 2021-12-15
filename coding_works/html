@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>VC 사용법</title>
+    <style>
+        h1 {
+            color: rgb(72, 255, 157);
+            background-color: blue;
+        }
+        </style>
+    </head>
+
+<body>
+
+    <h1>비주얼 스튜디오 코드,Test</h1>
+    
+</body>
+
+</html>
